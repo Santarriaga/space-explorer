@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020726048315",
+    "project_id": "space-explorer-6c290",
+    "storage_bucket": "space-explorer-6c290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020726048315:android:fa4ab6a3dc8085a4554e1e",
+        "android_client_info": {
+          "package_name": "com.example.space_explorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020726048315-ann4of709def5jgj0p81bdsgmc8oab0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpiG9EvmqRHp0d4VkPaLEoX1X1GMfNqqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020726048315-ann4of709def5jgj0p81bdsgmc8oab0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
